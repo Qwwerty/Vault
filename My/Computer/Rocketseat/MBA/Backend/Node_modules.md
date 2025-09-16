@@ -1,0 +1,1 @@
+Usando o comando `npx`, você pode executar scripts da pasta `.bin` que fica da `node_modules`.

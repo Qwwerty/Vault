@@ -1,0 +1,1 @@
+Ponto de fulgor ou ponto de inflamação é a menor temperatura a qual o combustível libera vapor suficiente para formar uma mistura inflamável por uma fonte de calor externa.
