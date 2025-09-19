@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2324559753932e5e",
+        "id": "86852c5d80f84df7",
         "type": "tabs",
         "children": [
           {
-            "id": "e72cd6da93aab908",
+            "id": "36b8118568c30d8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/9416b092-3695-453e-8569-c1b76b6f7a71 .png"
+                "file": "Rethink/Switft Project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "9416b092-3695-453e-8569-c1b76b6f7a71"
+              "icon": "lucide-file",
+              "title": "Switft Project"
             }
           }
         ]
@@ -161,9 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72cd6da93aab908",
+  "active": "36b8118568c30d8a",
   "lastOpenFiles": [
+    "My/Computer/AWS/Como subir uma máquina EC2.md",
+    "My/Computer/AWS/Clusters.md",
+    "Rethink/Switft Project.md",
+    "My/Computer/AWS",
     "Rethink/note.md",
+    "Images/9416b092-3695-453e-8569-c1b76b6f7a71 .png",
     "temporary/delete.md",
     "Rethink",
     "My/Computer/npm.md",
@@ -179,7 +186,6 @@
     "My/Rocketseat/MBA/Soft Skills/Product Owner.md",
     "My/Computer/Rocketseat/MBA/Soft Skills",
     "My/Rocketseat/MBA/Untitled.md",
-    "Images/9416b092-3695-453e-8569-c1b76b6f7a71 .png",
     "Images",
     "My/Rocketseat/MBA/Images/9416b092-3695-453e-8569-c1b76b6f7a71.png",
     "Images.md",
@@ -200,14 +206,10 @@
     "Motores/images/Pasted image 20250213080011.png",
     "Motores/images/Pasted image 20250212114401.png",
     "Motores/images/Pasted image 20250212114122.png",
-    "Motores/Taxa de compressão.md",
-    "Motores/Ponto de fulgor.md",
-    "Motores/Octanagem.md",
     "My/Rocketseat/images",
     "Motores/images",
     "Pasted image 20250213080300.png",
     "Pasted image 20250213080629.png",
-    "Pasted image 20250213080804.png",
-    "Images"
+    "Pasted image 20250213080804.png"
   ]
 }
