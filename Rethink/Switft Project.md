@@ -52,3 +52,6 @@ produto de preço variável: é aquele que geralmente está associado ao valor p
   
   
 global-app-flutter\apps\features\checkout\lib\presentation\checkout_home\checkout_home_controller.dart
+
+#### Drawio do fluxo da aplicação
+https://drive.google.com/file/d/19deAsVeCtHsYV-n15i8WWYy2L2sUk-V8/view

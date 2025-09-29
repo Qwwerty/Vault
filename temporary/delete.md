@@ -1,0 +1,1 @@
+[  ] - Estudar a respeito do https://www.localstack.cloud/. 

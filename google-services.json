@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "846650212283",
+    "firebase_url": "https://loja-swift.firebaseio.com",
+    "project_id": "loja-swift",
+    "storage_bucket": "loja-swift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846650212283:android:1f0578a4989816125d4e9e",
+        "android_client_info": {
+          "package_name": "com.swift.bug.report.swift_bug_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWngSQbFCE8QO_E4LqHdiLsXK3M6VpN4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846650212283-m5d6jq11m0sl4s89aco8lvu7r966mf93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gingasystems.SwiftCarnes",
+                "app_store_id": "1034589272"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846650212283:android:99525fc890d17be15d4e9e",
+        "android_client_info": {
+          "package_name": "com.swift.mercadocarne.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWngSQbFCE8QO_E4LqHdiLsXK3M6VpN4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846650212283-m5d6jq11m0sl4s89aco8lvu7r966mf93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gingasystems.SwiftCarnes",
+                "app_store_id": "1034589272"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846650212283:android:d21c68a7db82c0ee5d4e9e",
+        "android_client_info": {
+          "package_name": "com.swift.mercadocarne.client.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWngSQbFCE8QO_E4LqHdiLsXK3M6VpN4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846650212283-trd54gipi4s22ve355500fcavv594ukt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846650212283-m5d6jq11m0sl4s89aco8lvu7r966mf93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gingasystems.SwiftCarnes",
+                "app_store_id": "1034589272"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

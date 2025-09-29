@@ -1,0 +1,1 @@
+Podemos trabalhar com **credentials** e ler os cookies enviados pelo navegador. Assim, quando o usuário se autenticar, conseguimos enviar um cookie com o **access_token**. Dessa forma, o usuário não precisará mais injetar o token manualmente em todas as chamadas, já que ele poderá ser interceptado de forma segura diretamente pelos cookies.

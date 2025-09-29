@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86852c5d80f84df7",
+        "id": "05c2c1043135caff",
         "type": "tabs",
         "children": [
           {
-            "id": "36b8118568c30d8a",
+            "id": "c239c0d83a99c033",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Smiles/release-12-2024/to-do.md",
+                "file": "Linux/Gerar um executável menu Alacarte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for to-do"
+              "title": "Backlinks for Gerar um executável menu Alacarte"
             }
           },
           {
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,51 +164,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36b8118568c30d8a",
+  "active": "c239c0d83a99c033",
   "lastOpenFiles": [
-    "My/Computer/AWS/Como subir uma máquina EC2.md",
-    "My/Computer/AWS/Clusters.md",
+    "Inglês.md",
     "Rethink/Switft Project.md",
-    "My/Computer/AWS",
+    "backend/nestjs.md",
+    "backend",
+    "Backend.md",
+    "AWS/conceitos.md",
+    "AWS/Clusters.md",
+    "temporary/delete.md",
+    "google-services.json",
+    "Linux/Gerar um executável menu Alacarte.md",
+    "My/English.md",
+    "My/Computer/npm.md",
+    "Linux",
+    "Motores/Octanagem.md",
+    "AWS/Como subir uma máquina EC2.md",
+    "AWS",
     "Rethink/note.md",
     "Images/9416b092-3695-453e-8569-c1b76b6f7a71 .png",
-    "temporary/delete.md",
     "Rethink",
-    "My/Computer/npm.md",
     "Neovim/Commands.md",
     "My/Computer",
-    "My/English.md",
     "My/LeetCode.md",
-    "My/Computer/Rocketseat/MBA/Soft Skills/Metodologias Ágeis.md",
-    "My/Computer/Rocketseat/MBA/Backend/Prisma ORM.md",
-    "My/Computer/Rocketseat/MBA/Backend/DDD - Domain Driven Design.md",
-    "My/Computer/Rocketseat/MBA/React Native/Criando links e notificações push.md",
-    "My/Computer/Rocketseat/MBA/React Native/Publicando Apps.md",
+    "Rocketseat/MBA/Soft Skills/Metodologias Ágeis.md",
+    "Rocketseat/MBA/Backend/Prisma ORM.md",
+    "Rocketseat/MBA/Backend/DDD - Domain Driven Design.md",
+    "Rocketseat/MBA/React Native/Criando links e notificações push.md",
+    "Rocketseat/MBA/React Native/Publicando Apps.md",
     "My/Rocketseat/MBA/Soft Skills/Product Owner.md",
-    "My/Computer/Rocketseat/MBA/Soft Skills",
+    "Rocketseat/MBA/Soft Skills",
     "My/Rocketseat/MBA/Untitled.md",
     "Images",
     "My/Rocketseat/MBA/Images/9416b092-3695-453e-8569-c1b76b6f7a71.png",
     "Images.md",
     "image.png",
     "My/Rocketseat/MBA/Images",
-    "My/Computer/Rocketseat/MBA/React Native",
-    "My/Rocketseat/Untitled",
+    "Rocketseat/MBA/React Native",
     "My/Rocketseat/images/Untitled.md",
     "My/Rocketseat/images/Pasted image 20250201091429.png",
-    "My/Computer/Rocketseat/MBA/Backend/Node_modules.md",
+    "Rocketseat/MBA/Backend/Node_modules.md",
     "My/Todo.md",
-    "Smiles/General.md",
-    "Smiles/Hotels.md",
-    "My/Rocketseat/MBA/backend/desafio.md",
-    "My/Computer/Rocketseat/MBA/Backend/Hospedagens.md",
-    "Smiles/Trains.md",
-    "Motores/Projeção do turbo certo.md",
     "Motores/images/Pasted image 20250213080011.png",
     "Motores/images/Pasted image 20250212114401.png",
     "Motores/images/Pasted image 20250212114122.png",
-    "My/Rocketseat/images",
-    "Motores/images",
     "Pasted image 20250213080300.png",
     "Pasted image 20250213080629.png",
     "Pasted image 20250213080804.png"
