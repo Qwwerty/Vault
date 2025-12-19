@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "05c2c1043135caff",
+        "id": "2fe920ab12ef0422",
         "type": "tabs",
         "children": [
           {
-            "id": "c239c0d83a99c033",
+            "id": "60bdfdc557afc0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rethink/Switft Project.md",
+                "file": "Linux/Gerar um executável menu Alacarte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switft Project"
+              "title": "Gerar um executável menu Alacarte"
+            }
+          },
+          {
+            "id": "472915a5c2960b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Observabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observabilidade"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,18 +179,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c239c0d83a99c033",
+  "active": "472915a5c2960b97",
   "lastOpenFiles": [
-    "Inglês.md",
-    "Rethink/Switft Project.md",
     "backend/nestjs.md",
+    "backend/Observabilidade.md",
+    "Rethink/BH Airport.md",
+    "Rethink/Switft Project.md",
+    "Linux/Gerar um executável menu Alacarte.md",
+    "Linux/abrir explorer pelo terminal.md",
+    "Motores/Medidas comando de válvulas.md",
+    "temporary/delete.md",
+    "Inglês.md",
+    "Rethink/tp.md",
     "backend",
     "Backend.md",
     "AWS/conceitos.md",
     "AWS/Clusters.md",
-    "temporary/delete.md",
     "google-services.json",
-    "Linux/Gerar um executável menu Alacarte.md",
     "My/English.md",
     "My/Computer/npm.md",
     "Linux",
@@ -195,17 +215,12 @@
     "Rocketseat/MBA/React Native/Publicando Apps.md",
     "My/Rocketseat/MBA/Soft Skills/Product Owner.md",
     "Rocketseat/MBA/Soft Skills",
-    "My/Rocketseat/MBA/Untitled.md",
     "Images",
     "My/Rocketseat/MBA/Images/9416b092-3695-453e-8569-c1b76b6f7a71.png",
-    "Images.md",
     "image.png",
     "My/Rocketseat/MBA/Images",
     "Rocketseat/MBA/React Native",
-    "My/Rocketseat/images/Untitled.md",
     "My/Rocketseat/images/Pasted image 20250201091429.png",
-    "Rocketseat/MBA/Backend/Node_modules.md",
-    "My/Todo.md",
     "Motores/images/Pasted image 20250213080011.png",
     "Motores/images/Pasted image 20250212114401.png",
     "Motores/images/Pasted image 20250212114122.png",

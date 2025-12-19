@@ -23,6 +23,8 @@ ciyiyi9204@daupload.com
 [https://git.swiftapp.com.br/swift-dev-group/mobile/flutter/global/global-app-flutter/-/tree/socio-swift-merge-global?ref_type=heads](https://git.swiftapp.com.br/swift-dev-group/mobile/flutter/global/global-app-flutter/-/tree/socio-swift-merge-global?ref_type=heads)
 
 
+```
+
 ------------------------------------------
 
 SOCIO SWIFT: trata-se do programa de fidelidade da empresa Swift. Esse programa visa oferecer benefícios para seus clientes.   
@@ -53,5 +55,33 @@ produto de preço variável: é aquele que geralmente está associado ao valor p
   
 global-app-flutter\apps\features\checkout\lib\presentation\checkout_home\checkout_home_controller.dart
 
-#### Drawio do fluxo da aplicação
-https://drive.google.com/file/d/19deAsVeCtHsYV-n15i8WWYy2L2sUk-V8/view
+```
+
+git config --global user.name "Jorge Luiz Matos Silva"
+git config --global user.email jorge.luiz@rethink.dev
+
+
+```
+​@Jonatas Arlindo Pedroso​ no extrato está dando erro
+
+  
+
+curl --location --request GET 'https://global-promotions-apigw-qa.swiftapp.com.br/api/v1/cashback/transaction/history?cpf=64482321095&storeid=41042&pageNumber=1&pageSize=10&sort=DATE_DESC' \  
+--header 'regioncode: 1' \  
+--header 'user-agent: loja_swift-android-4.1.3-debug' \  
+--header 'postal-code: 05118-100' \  
+--header 'accept-encoding: gzip' \  
+--header 'auth: ' \  
+--header 'content-type: application/json' \  
+--header 'x-wf-ct-access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJnaXdheDU4NzkwQGZvZ2RpdmVyLmNvbSIsImlzQ29ycG9yYXRlIjpmYWxzZSwiaXNzIjoic3dpZnQiLCJ2aXAiOmZhbHNlLCJleHAiOjE3NjEyMjkwOTEsInVzZXJJZCI6ImI5NzEzNTMyLWFjZjAtNGFhZS1iNTcxLTE5ODIzNGI2NmNiZCJ9.NIitVYTFAcDuC5HO9KWTpLQkU27s-KI_axXj0ZZ9jy8' \  
+--header 'access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJnaXdheDU4NzkwQGZvZ2RpdmVyLmNvbSIsImlzQ29ycG9yYXRlIjpmYWxzZSwiaXNzIjoic3dpZnQiLCJ2aXAiOmZhbHNlLCJleHAiOjE3NjEyMjkwOTEsInVzZXJJZCI6ImI5NzEzNTMyLWFjZjAtNGFhZS1iNTcxLTE5ODIzNGI2NmNiZCJ9.NIitVYTFAcDuC5HO9KWTpLQkU27s-KI_axXj0ZZ9jy8' \  
+--header 'utmsource: android' \  
+--header 'token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJnaXdheDU4NzkwQGZvZ2RpdmVyLmNvbSIsImlzQ29ycG9yYXRlIjpmYWxzZSwiaXNzIjoic3dpZnQiLCJ2aXAiOmZhbHNlLCJleHAiOjE3NjEyMjkwOTEsInVzZXJJZCI6ImI5NzEzNTMyLWFjZjAtNGFhZS1iNTcxLTE5ODIzNGI2NmNiZCJ9.NIitVYTFAcDuC5HO9KWTpLQkU27s-KI_axXj0ZZ9jy8' \  
+--header 'refresh-token: ' \  
+--header 'region: br' \  
+--header 'content-length: 0' \  
+--header 'host: global-promotions-apigw-qa.swiftapp.com.br' \  
+--header 'utmcampaign: novoAppGlobal'
+
+"Bad Request: Unknown error loading history"
+```
